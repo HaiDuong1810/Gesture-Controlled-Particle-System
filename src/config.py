@@ -2,13 +2,13 @@
 # CẤU HÌNH CHUNG
 # ============================================================
 
-WIDTH = 860
-HEIGHT = 640
+WIDTH = 640
+HEIGHT = 480
 
 MP_WIDTH = 256
 MP_HEIGHT = 192
 
-MAX_PARTICLES = 4000
+MAX_PARTICLES = 2000
 PARTICLE_RADIUS = 1
 
 TARGET_SIZE = 320
